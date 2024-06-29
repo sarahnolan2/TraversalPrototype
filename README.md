@@ -8,3 +8,5 @@ Credits:
 - Third Person Controller & assets from [Unity](https://assetstore.unity.com/packages/essentials/starter-assets-third-person-character-controller-196526)
 - Grass textures from icons from [iconsDB](https://www.iconsdb.com/)
 - [JSFXR](https://sfxr.me/) for making my own sound effects
+
+## Unity Version: 2021.3.16f1
